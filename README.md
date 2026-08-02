@@ -99,7 +99,8 @@ The complete Visual Studio project files can be added for future development and
 - Advanced sales reports and analytics.
 - Additional security improvements.
 
-## Author
+## Academic Information
 
-**Ishanya-Jha**  
-**Bachelor of Computer Applications (BCA) Final Year Project**
+**Course:** Bachelor of Computer Applications (BCA)  
+**Project Type:** Final Year Project  
+**Academic Year:** 2024-25
