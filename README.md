@@ -1,66 +1,67 @@
-BCA Final Year Project
+# BCA Final Year Project
 
-Frnisher's – Furniture Shop Management System
+## Frnisher's – Furniture Shop Management System
 
-Academic Project Overview
+## Academic Project Overview
 
-Frnisher's – Furniture Shop Management System is a BCA Final Year Project developed as part of the Bachelor of Computer Applications (BCA) program.
+**Frnisher's – Furniture Shop Management System** is a **BCA Final Year Project** developed as part of the Bachelor of Computer Applications (BCA) program.
 
-The project is a desktop-based furniture shop management application developed using VB.NET and MS Access. It is designed to automate and simplify shop operations including product management, inventory tracking, customer management, billing, and sales record maintenance.
+The project is a desktop-based furniture shop management application developed using **VB.NET** and **MS Access**. It is designed to automate and simplify shop operations including product management, inventory tracking, customer management, billing, and sales record maintenance.
 
 This project demonstrates practical implementation of software development concepts, database management, user authentication, and Windows Forms application development.
 
-Project Objectives
+## Project Objectives
 
-- To develop a desktop application for managing furniture shop operations.
-- To reduce manual record keeping and improve operational efficiency.
-- To implement database-driven application development using VB.NET and MS Access.
-- To apply programming, UI design, and database connectivity concepts learned during the BCA program.
+- Develop a desktop application for managing furniture shop operations.
+- Reduce manual record keeping and improve operational efficiency.
+- Implement database-driven application development using VB.NET and MS Access.
+- Apply programming, UI design, and database connectivity concepts learned during the BCA program.
 
-Technologies Used
+## Technologies Used
 
-- Programming Language: VB.NET
-- Database: MS Access
-- Database Connectivity: OLEDB
-- Application Framework: Windows Forms
-- IDE: Visual Studio
+- **Programming Language:** VB.NET
+- **Database:** MS Access
+- **Database Connectivity:** OLEDB
+- **Application Framework:** Windows Forms
+- **IDE:** Visual Studio
 
-Key Features
+## Key Features
 
-User Authentication
+### User Authentication
 
 - Secure login system for customers and administrators.
 - Controlled access based on user roles.
 
-Product & Inventory Management
+### Product & Inventory Management
 
 - Manage furniture products and categories.
 - Add, update, search, and delete product records.
 - Track available inventory.
 
-Customer Management
+### Customer Management
 
 - Store and manage customer information.
 - Retrieve customer records efficiently.
 
-Billing & Order Processing
+### Billing & Order Processing
 
 - Generate bills for customer purchases.
 - Support Cash and UPI payment options.
 - Maintain sales transaction records.
 
-Admin Dashboard
+### Admin Dashboard
 
 - Manage products, sales, and customer records.
 - Monitor shop activities from a centralized dashboard.
 
-Database Integration
+### Database Integration
 
 - Implemented OLEDB connectivity for database operations.
 - Used DataGridView for displaying and managing records.
 
-Project Repository Structure
+## Project Repository Structure
 
+```text
 BCA-Final-Year-Project
 │
 ├── Source-Code
@@ -69,39 +70,36 @@ BCA-Final-Year-Project
 ├── Screenshots
 │   └── Application Screenshots
 │
-├── Documentation
-│   └── Complete Project Report
-│
-└── Database
-    └── MS Access Database Files
+└── Documentation
+    └── Complete Project Report
+```
 
-Screenshots
+## Screenshots
 
-Screenshots demonstrating the application's interface and functionality are available in the "Screenshots" folder.
+Screenshots demonstrating the application's interface and functionality are available in the **Screenshots** folder.
 
-Source Code
+## Source Code
 
-The complete VB.NET source code developed for this BCA Final Year Project is available in the "Source-Code" folder.
+The repository contains VB.NET source code files related to the project, including form files and application components.
 
-Documentation
+## Documentation
 
-The detailed academic project report is available in the "Documentation" folder.
+The detailed academic project report is available in the **Documentation** folder.
 
-How to Run
+## Project Availability
 
-1. Clone or download this repository.
-2. Open the Visual Studio solution (".sln") file.
-3. Configure the MS Access database connection if required.
-4. Build and run the application.
+This repository contains documentation, screenshots, and source code files from the BCA Final Year Project.
 
-Future Enhancements
+The complete Visual Studio project files can be added for future development and reference.
+
+## Future Enhancements
 
 - Integration of online payment services.
 - Improved user interface and experience.
 - Advanced sales reports and analytics.
 - Additional security improvements.
 
-Author
+## Author
 
-Ishanya-Jha
-Bachelor of Computer Applications (BCA) Final Year Project
+**Ishanya-Jha**  
+**Bachelor of Computer Applications (BCA) Final Year Project**
